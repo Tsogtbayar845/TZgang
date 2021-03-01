@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Монгол Улсын орчин цагийн барилгын салбарын 90 жилийн ойн босгон дээр барилга, дэд бүтцийн ерөнхий гүйцэтгэгч байгууллагууд чуулж, Монголын Барилгын Гүйцэтгэгч Байгууллагуудын Холбоо /МБГБХ/ төрийн бус байгууллагыг үүсгэн байгууллаа.
